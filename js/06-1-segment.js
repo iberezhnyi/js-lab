@@ -23,7 +23,7 @@ const res = number > x1 && number < x2;
 // true && true
 // true
 
-console.log(`Число ${number} попадает в отрезок от ${x1} до ${x2}?`, res);
+// console.log(`Число ${number} попадает в отрезок от ${x1} до ${x2}?`, res);
 
 // Число 50 попадает в отрезок до x1 или после x2?
 
